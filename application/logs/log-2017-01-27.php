@@ -275,3 +275,59 @@ INFO - 2017-01-27 17:45:04 --> File loaded: C:\xampp\htdocs\cpanel\application\v
 INFO - 2017-01-27 17:45:04 --> File loaded: C:\xampp\htdocs\cpanel\application\views\footer.php
 INFO - 2017-01-27 17:45:04 --> Final output sent to browser
 DEBUG - 2017-01-27 17:45:04 --> Total execution time: 0.1762
+ERROR - 2017-01-27 17:49:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\cpanel\application\vendor/autoload.php was not found.
+INFO - 2017-01-27 17:49:58 --> Config Class Initialized
+INFO - 2017-01-27 17:49:58 --> Hooks Class Initialized
+DEBUG - 2017-01-27 17:49:58 --> UTF-8 Support Enabled
+INFO - 2017-01-27 17:49:58 --> Utf8 Class Initialized
+INFO - 2017-01-27 17:49:58 --> URI Class Initialized
+DEBUG - 2017-01-27 17:49:58 --> No URI present. Default controller set.
+INFO - 2017-01-27 17:49:58 --> Router Class Initialized
+INFO - 2017-01-27 17:49:58 --> Output Class Initialized
+INFO - 2017-01-27 17:49:58 --> Security Class Initialized
+DEBUG - 2017-01-27 17:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-27 17:49:58 --> Input Class Initialized
+INFO - 2017-01-27 17:49:58 --> Language Class Initialized
+INFO - 2017-01-27 17:49:58 --> Loader Class Initialized
+INFO - 2017-01-27 17:49:58 --> Helper loaded: url_helper
+INFO - 2017-01-27 17:49:58 --> Helper loaded: form_helper
+INFO - 2017-01-27 17:49:58 --> Helper loaded: security_helper
+DEBUG - 2017-01-27 17:49:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-27 17:49:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-27 17:49:58 --> Form Validation Class Initialized
+INFO - 2017-01-27 17:49:58 --> Controller Class Initialized
+INFO - 2017-01-27 17:49:58 --> Model Class Initialized
+INFO - 2017-01-27 17:49:58 --> Database Driver Class Initialized
+INFO - 2017-01-27 17:49:58 --> File loaded: C:\xampp\htdocs\cpanel\application\views\head.php
+INFO - 2017-01-27 17:49:58 --> File loaded: C:\xampp\htdocs\cpanel\application\views\autenticacion.php
+INFO - 2017-01-27 17:49:58 --> File loaded: C:\xampp\htdocs\cpanel\application\views\footer.php
+INFO - 2017-01-27 17:49:58 --> Final output sent to browser
+DEBUG - 2017-01-27 17:49:58 --> Total execution time: 0.1504
+ERROR - 2017-01-27 17:53:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\cpanel\application\vendor/autoload.php was not found.
+INFO - 2017-01-27 17:53:37 --> Config Class Initialized
+INFO - 2017-01-27 17:53:37 --> Hooks Class Initialized
+DEBUG - 2017-01-27 17:53:37 --> UTF-8 Support Enabled
+INFO - 2017-01-27 17:53:37 --> Utf8 Class Initialized
+INFO - 2017-01-27 17:53:37 --> URI Class Initialized
+INFO - 2017-01-27 17:53:37 --> Router Class Initialized
+INFO - 2017-01-27 17:53:37 --> Output Class Initialized
+INFO - 2017-01-27 17:53:37 --> Security Class Initialized
+DEBUG - 2017-01-27 17:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-27 17:53:37 --> Input Class Initialized
+INFO - 2017-01-27 17:53:37 --> Language Class Initialized
+INFO - 2017-01-27 17:53:37 --> Loader Class Initialized
+INFO - 2017-01-27 17:53:37 --> Helper loaded: url_helper
+INFO - 2017-01-27 17:53:37 --> Helper loaded: form_helper
+INFO - 2017-01-27 17:53:37 --> Helper loaded: security_helper
+DEBUG - 2017-01-27 17:53:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-27 17:53:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-27 17:53:37 --> Form Validation Class Initialized
+INFO - 2017-01-27 17:53:37 --> Controller Class Initialized
+INFO - 2017-01-27 17:53:37 --> Model Class Initialized
+INFO - 2017-01-27 17:53:37 --> Database Driver Class Initialized
+INFO - 2017-01-27 17:53:37 --> Language file loaded: language/spanish/form_validation_lang.php
+INFO - 2017-01-27 17:53:37 --> File loaded: C:\xampp\htdocs\cpanel\application\views\head.php
+INFO - 2017-01-27 17:53:37 --> File loaded: C:\xampp\htdocs\cpanel\application\views\autenticacion.php
+INFO - 2017-01-27 17:53:37 --> File loaded: C:\xampp\htdocs\cpanel\application\views\footer.php
+INFO - 2017-01-27 17:53:37 --> Final output sent to browser
+DEBUG - 2017-01-27 17:53:37 --> Total execution time: 0.2478
