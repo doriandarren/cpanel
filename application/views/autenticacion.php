@@ -18,7 +18,7 @@
                     $attributes = array('name' => 'formx',
                         'id' => 'formx',
                         'class' => 'form-horizontal formular');
-                    echo form_open('Autenticacion/autenticar', $attributes);
+                    echo form_open('autenticacion/autenticar', $attributes);
                     ?>
                         
                         <div class="form-group <?php
