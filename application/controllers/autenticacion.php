@@ -6,7 +6,7 @@ class Autenticacion extends MY_Public {
     
     private $usuario = '';
     private $pass = '';
-    private $title_head = 'Autenticacion';
+    private $title_head = 'LOLALALA';
     /*
      * VARIABLES CON MSJ:
      * alert alert-info
