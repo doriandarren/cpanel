@@ -34,8 +34,8 @@ class MY_Public extends CI_Controller {
             //$mail->Host = 'ssl://smtp.gmail.com:465';       // Specify main and backup SMTP servers
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;                         // Enable SMTP authentication
-            $mail->Username = 'wizakorweb@gmail.com';       // SMTP username
-            $mail->Password = '2016compostela';             // SMTP password
+            $mail->Username = '';       // SMTP username
+            $mail->Password = '';             // SMTP password
             $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
             $mail->Port = 587;
             
