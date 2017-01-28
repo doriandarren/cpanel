@@ -6,10 +6,10 @@ class Autenticacion extends MY_Public {
     
     private $usuario = '';
     private $pass = '';
-    private $title_head = 'Autenticacion';
+    private $title_head = 'Autenticacion1';
     /*
      * VARIABLES CON MSJ: 
-     * alert alert-info| alert alert-success | alert alert-danger*/
+     * alert alert-info| alert alert-success |  alert alert-danger*/
     private $msj = NULL;
 
     public function __construct() {
