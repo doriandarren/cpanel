@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$_SERVER['SERVER_ADDR']
-$config['base_url'] = 'http://192.168.1.130/cpanel/';
+$config['base_url'] = 'http://localhost/cpanel/';
 
 //$config['base_url'] = $_SERVER['SERVER_ADDR'];
 
