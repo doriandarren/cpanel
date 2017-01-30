@@ -25,7 +25,7 @@ class proyectos_definiciones extends MY_Admin {
         //JS PUBLICOS
         $data['js'] = array('tablas/jquery.dataTables', 'tablas/dataTables.bootstrap', 'tablas/mi_tabla');
 
-        $this->breadCrumbs[] = array('text' => 'proyectos_definiciones');
+        $this->breadCrumbs[] = array('text' => 'Proyectos Definiciones');
 
         $this->load->view($this->directorio . 'plantilla/head', $data);
         $this->load->view($this->directorio . strtolower($this->title_head), $datos);

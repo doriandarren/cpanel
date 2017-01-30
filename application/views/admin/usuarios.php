@@ -1,9 +1,10 @@
 <div class="col-md-12 text-center">
-    <h1>PROYECTOS DEFINICIONES</h1>
+    <h1>USUARIOS</h1>
 </div> 
 <div class="col-md-12">
-    <a href="<?= site_url('admin/proyectos_definiciones/nueva') ?>" class="btn btn-success">Nueva</a>
+    <a href="<?= site_url('admin/usuarios/nueva') ?>" class="btn btn-success">Nueva</a>
 </div>
+
 
 <div class="row">         
     <?php
@@ -14,10 +15,9 @@
                 <thead>
                     <tr>
                         <th>#</th>
-                        <th>ID</th>
                         <th>NOMBRE</th>
-                        <th>DESCRIPCION</th>
-                        <th>OBJETIVO GENERAL</th>
+                        <th>ACRONIMO</th>
+                        <th>EMAIL</th>
                         <th>ACCION</th>
                     </tr>
                 </thead>
@@ -28,13 +28,12 @@
                         ?>
                         <tr>
                             <td><?= $i ?></td>
-                            <td><?= $row->id ?></td>
                             <td><?= $row->nombre ?></td>
-                            <td><?= $row->descripcion ?></td>
-                            <td><?= $row->objetivo_general ?></td>
+                            <td><?= $row->acronimo ?></td>
+                            <td><?= $row->email ?></td>
                             <td>
-                                <a href="<?= site_url('admin/proyectos_definiciones/nueva') . '/' . $row->id ?>" class="btn btn-info">Editar</a>
-                                <a href="<?= site_url('admin/proyectos_definiciones/eliminar') . '/' . $row->id ?>" class="btn btn-danger" title="Eliminar" onclick="return confirm('Eliminar este Registro?')">Eliminar</a>
+                                <a href="<?= site_url('admin/usuarios/nueva') . '/' . $row->id ?>" class="btn btn-info">Editar</a>
+                                <a href="<?= site_url('admin/usuarios/eliminar') . '/' . $row->id ?>" class="btn btn-danger" title="Eliminar" onclick="return confirm('Eliminar este Registro?')">Eliminar</a>
                             </td>
 
                         </tr>                      

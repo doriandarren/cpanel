@@ -6,7 +6,6 @@ class proyectos_aperturas extends MY_Admin {
     /*
      * VARIABLES CON MSJ:
      * alert alert-info | alert alert-success | alert alert-danger  */
-
     public $msj = NULL;
     private $title_head = 'Proyectos_aperturas';
     private $directorio = 'admin/';
@@ -25,7 +24,7 @@ class proyectos_aperturas extends MY_Admin {
         //JS PUBLICOS
         $data['js'] = array('tablas/jquery.dataTables', 'tablas/dataTables.bootstrap', 'tablas/mi_tabla');
 
-        $this->breadCrumbs[] = array('text' => 'proyectos_aperturas');
+        $this->breadCrumbs[] = array('text' => 'Proyectos Aperturas');
 
         $this->load->view($this->directorio . 'plantilla/head', $data);
         $this->load->view($this->directorio . strtolower($this->title_head), $datos);
@@ -42,20 +41,32 @@ class proyectos_aperturas extends MY_Admin {
         $this->proyectos_aperturas_m->set_id($id);
         $datos['id'] = $this->proyectos_aperturas_m->get_id();
         $datos['descripcion'] = $this->proyectos_aperturas_m->get_descripcion();
-        $datos['fecha_inicio'] = $this->proyectos_aperturas_m->get_fecha_inicio();
-        $datos['fecha_fin'] = $this->proyectos_aperturas_m->get_fecha_fin();
+        $fecha_ini = $this->proyectos_aperturas_m->get_fecha_inicio();
+        if($fecha_ini===''){
+            //date("Y-m-d H:i:s");
+            $datos['fecha_inicio'] = date("Y-m-d");
+        }  else {
+            $datos['fecha_inicio'] = $this->fecha_usuario($fecha_ini);
+        } 
+        $fecha_fin = $this->proyectos_aperturas_m->get_fecha_fin();        
+        if($fecha_fin===''){
+            //date("Y-m-d H:i:s");
+            $datos['fecha_fin'] = date("Y-m-d");
+        }  else {
+            $datos['fecha_fin'] = $this->fecha_usuario($fecha_fin);
+        }         
         $datos['inversion'] = $this->proyectos_aperturas_m->get_inversion();
         $datos['gastos'] = $this->proyectos_aperturas_m->get_gastos();
         $datos['proyectos_estatus_id'] = $this->proyectos_aperturas_m->get_proyectos_estatus_id();
         $datos['proyectos_definiciones_id'] = $this->proyectos_aperturas_m->get_proyectos_definiciones_id();
-//Listar los proyectos_estatus
+        //Listar los proyectos_estatus
         $this->load->model('proyectos_estatus_m');
         $datos['lista_proyectos_estatus'] = $this->proyectos_estatus_m->listar();
-//Listar los proyectos_definiciones
+        //Listar los proyectos_definiciones
         $this->load->model('proyectos_definiciones_m');
         $datos['lista_proyectos_definiciones'] = $this->proyectos_definiciones_m->listar();
 
-        $this->breadCrumbs[] = array('text' => 'Proyectos_aperturas', 'href' => site_url($this->directorio . 'proyectos_aperturas'));
+        $this->breadCrumbs[] = array('text' => 'Proyectos Aperturas', 'href' => site_url($this->directorio . 'proyectos_aperturas'));
         if ($id === 0) {
             $this->breadCrumbs[] = array('text' => 'Crear');
         } else {
@@ -69,12 +80,13 @@ class proyectos_aperturas extends MY_Admin {
     public function guardar() {
         $datos['id'] = $this->input->post("id", TRUE);
         $datos['descripcion'] = $this->input->post("descripcion", TRUE);
-        $datos['fecha_inicio'] = $this->input->post("fecha_inicio", TRUE);
-        $datos['fecha_fin'] = $this->input->post("fecha_fin", TRUE);
+        $fecha_inicio = $this->input->post("fecha_inicio", TRUE);
+        $fecha_fin = $this->input->post("fecha_fin", TRUE);
         $datos['inversion'] = $this->input->post("inversion", TRUE);
         $datos['gastos'] = $this->input->post("gastos", TRUE);
         $datos['proyectos_estatus_id'] = $this->input->post("proyectos_estatus_id", TRUE);
         $datos['proyectos_definiciones_id'] = $this->input->post("proyectos_definiciones_id", TRUE);
+        
         $this->form_validation->set_rules('id', 'Id', 'trim|required|xss_clean');
         $this->form_validation->set_rules('descripcion', 'Descripcion', 'trim|required|xss_clean');
         $this->form_validation->set_rules('fecha_inicio', 'Fecha Inicio', 'trim|required|xss_clean');
@@ -84,14 +96,15 @@ class proyectos_aperturas extends MY_Admin {
         $this->form_validation->set_rules('proyectos_estatus_id', 'Proyectos Estatus Id', 'trim|required|xss_clean');
         $this->form_validation->set_rules('proyectos_definiciones_id', 'Proyectos Definiciones Id', 'trim|required|xss_clean');
 
-        if ($this->form_validation->run() === FALSE) {
-
+        if ($this->form_validation->run() === FALSE) {  
             $data['title_head'] = $this->title_head;
-            $data['msj'] = array('alert alert-danger', 'Error: No se guardaron los datos');
-//Listar los proyectos_estatus
+            $data['msj'] = array('alert alert-danger', 'Error: No se guardaron los datos');            
+            $datos['fecha_inicio'] = $fecha_inicio;
+            $datos['fecha_fin'] = $fecha_fin;
+            //Listar los proyectos_estatus
             $this->load->model('proyectos_estatus_m');
             $datos['lista_proyectos_estatus'] = $this->proyectos_estatus_m->listar();
-//Listar los proyectos_definiciones
+            //Listar los proyectos_definiciones
             $this->load->model('proyectos_definiciones_m');
             $datos['lista_proyectos_definiciones'] = $this->proyectos_definiciones_m->listar();
 
@@ -99,7 +112,8 @@ class proyectos_aperturas extends MY_Admin {
             $this->load->view($this->directorio . 'proyectos_apertura', $datos);
             $this->load->view($this->directorio . 'plantilla/footer');
         } else {
-
+            $datos['fecha_inicio']= $this->fecha_bd($fecha_inicio);
+            $datos['fecha_fin']= $this->fecha_bd($fecha_fin);
             $resultado = $this->proyectos_aperturas_m->upsert($datos);
             if ($resultado == TRUE) {
                 redirect($this->directorio . strtolower($this->title_head) . '/mensaje/formE', 'refresh');
