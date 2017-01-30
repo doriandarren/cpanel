@@ -104,7 +104,7 @@ class Usuarios_m extends CI_Model {
         }
     }
 
-    function setear($pid){
+    function set_id($pid){
         $id = intval($pid);
         $this->db->select('*');
         $this->db->where('id',$id);                
