@@ -144,7 +144,7 @@ class MY_Admin extends CI_Controller {
      * 
      * **********************************
      * *********************************/
-
+/*
     public function mensajeExito() {         
         $this->msj = array('alert alert-success','Datos Guardados');  
         $this->index();
@@ -152,7 +152,7 @@ class MY_Admin extends CI_Controller {
 
     public function mensajeError() {
         $this->msj = array('alert alert-danger','Error: No se guardaron los datos');
-        $this->index();   
+        $this->index();
     }  
     
     public function mensajeEliminados() {
@@ -164,5 +164,6 @@ class MY_Admin extends CI_Controller {
         $this->msj = array($tipo,$msj);
         $this->index();
     }
+     */     
     
 }

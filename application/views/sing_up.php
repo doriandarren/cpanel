@@ -1,20 +1,17 @@
-
-<?php
-if (isset($msj) && count($msj)>0) { ?>    
-<div class="container">
-    <div class="row" id='transaccion'>    
-        <div class="col-md-4 col-md-offset-4 <?= $msj[0] ?>" role="alert">
-            <?= $msj[1] ?>
-        </div>
-    </div> 
-</div>
-<?php    
-}
-?>
-
 <div class="container" id="login-block">
     <div class="row">      
-        <div class="col-sm-6 col-md-8 col-sm-offset-3 col-md-offset-2">  
+        <div class="col-sm-6 col-md-8 col-sm-offset-3 col-md-offset-2">
+            <?php if (isset($msj) && count($msj) > 0) { ?>    
+                <div class="container">
+                    <div class="row" id='transaccion'>    
+                        <div class="col-md-4 col-md-offset-2 <?= $msj[0] ?>" role="alert">
+                            <?= $msj[1] ?>
+                        </div>
+                    </div> 
+                </div>
+                <?php
+            }
+            ?>            
             <h3 class="animated bounceInDown">Registrese con nosotros!</h3>
             <div class="contenedor clearfix animated rotateInUpRight"> 
                 <div class="login-form">                    

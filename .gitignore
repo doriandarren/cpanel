@@ -1,4 +1,5 @@
 # netbeans
+/nbproject/
 nbproject/private/
 build/
 nbbuild/
