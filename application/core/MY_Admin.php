@@ -26,7 +26,7 @@ class MY_Admin extends CI_Controller {
     
     public function confirmacionEmail($id) {        
         $this->load->model('usuarios_m');
-        $this->usuarios_m->setear($id);
+        $this->usuarios_m->set_id($id);
         $conEmail = $this->usuarios_m->get_confirmar_email();
         return $conEmail;
     }

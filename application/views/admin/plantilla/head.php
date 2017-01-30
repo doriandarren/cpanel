@@ -169,19 +169,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </ul>
                 </li>  
                 <li>
-                    <a href="javascript:;" data-toggle="collapse" data-target="#proy"><i class="fa fa-fw fa-arrows-v"></i> Proyectos <i class="fa fa-fw fa-caret-down"></i></a>
+                    <a href="javascript:;" data-toggle="collapse" data-target="#proy"><i class="fa fa-fw fa-building"></i> Proyectos <i class="fa fa-fw fa-caret-down"></i></a>
                     <ul id="proy" class="collapse">
                         <li>
                             <a href="<?= site_url('admin/proyectos') ?>">Proyectos</a>
                         </li>
                         <li>
-                            <a href="<?= site_url('admin/proyectos/actuales') ?>">Actuales</a>
+                            <a href="<?= site_url('admin/proyectos_aperturas') ?>">Apertura</a>
+                        </li>                        
+                        <li>
+                            <a href="<?= site_url('admin/proyectos_estatus') ?>">Estatus</a>
                         </li>
                         <li>
-                            <a href="<?= site_url('admin/proyectos/muestra_estadistica') ?>">Estadística</a>
+                            <a href="<?= site_url('admin/proyectos/actuales') ?>">Actuales</a>
                         </li>
                     </ul>
-                </li>
+                </li>                
             </ul>
         </div>
         <!-- /.navbar-collapse -->

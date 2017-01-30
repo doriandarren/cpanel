@@ -6,7 +6,7 @@ class Autenticacion extends MY_Public {
     
     private $usuario = '';
     private $pass = '';
-    private $title_head = 'Autenticacion1';
+    private $title_head = 'Autenticacion';
     /*
      * VARIABLES CON MSJ: 
      * alert alert-info| alert alert-success |  alert alert-danger*/
@@ -17,7 +17,7 @@ class Autenticacion extends MY_Public {
         $this->load->model('usuarios_m');
     }
 
-    public function index() {
+    public function index() { 
         $data['usuario'] = $this->usuario;
         $data['pass'] = $this->pass;
         /* variables: info - error - exito */
