@@ -18,28 +18,24 @@ class proyectos_aperturas extends MY_Admin {
     public function index() {
         $data['title_head'] = $this->title_head;
         $data['msj'] = $this->msj;
-
-        $datos = $this->proyectos_aperturas_m->listar();
         
-        $this->load->model('proyectos_estatus_m');
-        $this->load->model('proyectos_definiciones_m');
-        
-        foreach ($datos as $i => $value) {    
-            
-            $fe = $value->fecha_inicio;
-            $value->fecha_inicio = $this->fecha_usuario($fe);
-            
-            $fef = $value->fecha_fin;
-            $value->fecha_fin = $this->fecha_usuario($fef);
-            
-            $this->proyectos_estatus_m->set_id($value->proyectos_estatus_id);
-            $datos[$i]->des_estatus = $this->proyectos_estatus_m->get_descripcion();
-            
-            $this->proyectos_definiciones_m->set_id($value->proyectos_definiciones_id);
-            $datos[$i]->des_proyecto = $this->proyectos_definiciones_m->get_nombre();            
+        $res = $this->proyectos_aperturas_m->listar();
+                
+        if(!empty($res)){
+            $this->load->model('proyectos_estatus_m');
+            $this->load->model('proyectos_definiciones_m');        
+            foreach ($res as $i => $value) {  
+                $fe = $value->fecha_inicio;
+                $value->fecha_inicio = $this->fecha_usuario($fe);
+                $fef = $value->fecha_fin;
+                $value->fecha_fin = $this->fecha_usuario($fef);
+                $this->proyectos_estatus_m->set_id($value->proyectos_estatus_id);
+                $datos[$i]->des_estatus = $this->proyectos_estatus_m->get_descripcion();
+                $this->proyectos_definiciones_m->set_id($value->proyectos_definiciones_id);
+                $datos[$i]->des_proyecto = $this->proyectos_definiciones_m->get_nombre();            
+            }
         }
-        
-        $datos['datos'] = $datos;
+        $datos['datos'] = $res;
         //JS PUBLICOS
         $data['js'] = array('tablas/jquery.dataTables', 'tablas/dataTables.bootstrap', 'tablas/mi_tabla');
 
