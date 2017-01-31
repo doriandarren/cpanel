@@ -4963,3 +4963,1077 @@ INFO - 2017-01-30 17:40:35 --> Database Driver Class Initialized
 ERROR - 2017-01-30 17:40:35 --> Query error: Table 'bd.proyectos_aperturas' doesn't exist - Invalid query: SELECT *
 FROM `proyectos_aperturas`
 INFO - 2017-01-30 17:40:35 --> Language file loaded: language/spanish/db_lang.php
+ERROR - 2017-01-30 17:46:27 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:46:27 --> Config Class Initialized
+INFO - 2017-01-30 17:46:27 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:46:27 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:46:27 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:46:27 --> URI Class Initialized
+INFO - 2017-01-30 17:46:27 --> Router Class Initialized
+INFO - 2017-01-30 17:46:27 --> Output Class Initialized
+INFO - 2017-01-30 17:46:27 --> Security Class Initialized
+DEBUG - 2017-01-30 17:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:46:27 --> Input Class Initialized
+INFO - 2017-01-30 17:46:27 --> Language Class Initialized
+INFO - 2017-01-30 17:46:28 --> Loader Class Initialized
+INFO - 2017-01-30 17:46:28 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:46:28 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:46:28 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:46:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:46:28 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:46:28 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:46:28 --> Controller Class Initialized
+INFO - 2017-01-30 17:46:28 --> Model Class Initialized
+INFO - 2017-01-30 17:46:28 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:46:28 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:46:28 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:46:28 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:46:28 --> Final output sent to browser
+DEBUG - 2017-01-30 17:46:28 --> Total execution time: 0.2601
+ERROR - 2017-01-30 17:46:32 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:46:32 --> Config Class Initialized
+INFO - 2017-01-30 17:46:32 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:46:32 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:46:32 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:46:32 --> URI Class Initialized
+INFO - 2017-01-30 17:46:32 --> Router Class Initialized
+INFO - 2017-01-30 17:46:32 --> Output Class Initialized
+INFO - 2017-01-30 17:46:32 --> Security Class Initialized
+DEBUG - 2017-01-30 17:46:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:46:32 --> Input Class Initialized
+INFO - 2017-01-30 17:46:32 --> Language Class Initialized
+INFO - 2017-01-30 17:46:32 --> Loader Class Initialized
+INFO - 2017-01-30 17:46:32 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:46:32 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:46:32 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:46:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:46:32 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:46:32 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:46:32 --> Controller Class Initialized
+INFO - 2017-01-30 17:46:32 --> Model Class Initialized
+INFO - 2017-01-30 17:46:32 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:46:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:46:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:46:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:46:32 --> Final output sent to browser
+DEBUG - 2017-01-30 17:46:32 --> Total execution time: 0.0813
+ERROR - 2017-01-30 17:46:35 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:46:35 --> Config Class Initialized
+INFO - 2017-01-30 17:46:35 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:46:35 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:46:35 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:46:35 --> URI Class Initialized
+INFO - 2017-01-30 17:46:35 --> Router Class Initialized
+INFO - 2017-01-30 17:46:35 --> Output Class Initialized
+INFO - 2017-01-30 17:46:35 --> Security Class Initialized
+DEBUG - 2017-01-30 17:46:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:46:35 --> Input Class Initialized
+INFO - 2017-01-30 17:46:35 --> Language Class Initialized
+INFO - 2017-01-30 17:46:35 --> Loader Class Initialized
+INFO - 2017-01-30 17:46:35 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:46:35 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:46:35 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:46:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:46:35 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:46:35 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:46:35 --> Controller Class Initialized
+INFO - 2017-01-30 17:46:35 --> Model Class Initialized
+INFO - 2017-01-30 17:46:35 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:46:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:46:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definiciones.php
+INFO - 2017-01-30 17:46:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:46:35 --> Final output sent to browser
+DEBUG - 2017-01-30 17:46:35 --> Total execution time: 0.0731
+ERROR - 2017-01-30 17:46:36 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:46:36 --> Config Class Initialized
+INFO - 2017-01-30 17:46:36 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:46:36 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:46:36 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:46:36 --> URI Class Initialized
+INFO - 2017-01-30 17:46:36 --> Router Class Initialized
+INFO - 2017-01-30 17:46:36 --> Output Class Initialized
+INFO - 2017-01-30 17:46:36 --> Security Class Initialized
+DEBUG - 2017-01-30 17:46:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:46:36 --> Input Class Initialized
+INFO - 2017-01-30 17:46:36 --> Language Class Initialized
+INFO - 2017-01-30 17:46:36 --> Loader Class Initialized
+INFO - 2017-01-30 17:46:36 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:46:36 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:46:36 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:46:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:46:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:46:36 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:46:36 --> Controller Class Initialized
+INFO - 2017-01-30 17:46:36 --> Model Class Initialized
+INFO - 2017-01-30 17:46:36 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:46:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:46:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definicione.php
+INFO - 2017-01-30 17:46:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:46:36 --> Final output sent to browser
+DEBUG - 2017-01-30 17:46:36 --> Total execution time: 0.0277
+ERROR - 2017-01-30 17:47:04 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:04 --> Config Class Initialized
+INFO - 2017-01-30 17:47:04 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:04 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:04 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:04 --> URI Class Initialized
+INFO - 2017-01-30 17:47:04 --> Router Class Initialized
+INFO - 2017-01-30 17:47:04 --> Output Class Initialized
+INFO - 2017-01-30 17:47:04 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:04 --> Input Class Initialized
+INFO - 2017-01-30 17:47:04 --> Language Class Initialized
+INFO - 2017-01-30 17:47:04 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:04 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:04 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:04 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:04 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:04 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:04 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:04 --> Model Class Initialized
+INFO - 2017-01-30 17:47:04 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:04 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:47:05 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:05 --> Config Class Initialized
+INFO - 2017-01-30 17:47:05 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:05 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:05 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:05 --> URI Class Initialized
+INFO - 2017-01-30 17:47:05 --> Router Class Initialized
+INFO - 2017-01-30 17:47:05 --> Output Class Initialized
+INFO - 2017-01-30 17:47:05 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:05 --> Input Class Initialized
+INFO - 2017-01-30 17:47:05 --> Language Class Initialized
+INFO - 2017-01-30 17:47:05 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:05 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:05 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:05 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:05 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:05 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:05 --> Model Class Initialized
+INFO - 2017-01-30 17:47:05 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definiciones.php
+INFO - 2017-01-30 17:47:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:05 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:05 --> Total execution time: 0.0253
+ERROR - 2017-01-30 17:47:14 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:14 --> Config Class Initialized
+INFO - 2017-01-30 17:47:14 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:14 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:14 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:14 --> URI Class Initialized
+INFO - 2017-01-30 17:47:14 --> Router Class Initialized
+INFO - 2017-01-30 17:47:14 --> Output Class Initialized
+INFO - 2017-01-30 17:47:14 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:14 --> Input Class Initialized
+INFO - 2017-01-30 17:47:14 --> Language Class Initialized
+INFO - 2017-01-30 17:47:14 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:14 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:14 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:14 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:14 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:14 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:14 --> Model Class Initialized
+INFO - 2017-01-30 17:47:14 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:47:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:14 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:14 --> Total execution time: 0.0912
+ERROR - 2017-01-30 17:47:16 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:16 --> Config Class Initialized
+INFO - 2017-01-30 17:47:16 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:16 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:16 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:16 --> URI Class Initialized
+INFO - 2017-01-30 17:47:16 --> Router Class Initialized
+INFO - 2017-01-30 17:47:16 --> Output Class Initialized
+INFO - 2017-01-30 17:47:16 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:16 --> Input Class Initialized
+INFO - 2017-01-30 17:47:16 --> Language Class Initialized
+INFO - 2017-01-30 17:47:16 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:16 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:16 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:16 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:16 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:16 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:16 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:16 --> Model Class Initialized
+INFO - 2017-01-30 17:47:16 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:47:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:16 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:16 --> Total execution time: 0.0583
+ERROR - 2017-01-30 17:47:17 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:17 --> Config Class Initialized
+INFO - 2017-01-30 17:47:17 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:17 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:17 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:17 --> URI Class Initialized
+INFO - 2017-01-30 17:47:17 --> Router Class Initialized
+INFO - 2017-01-30 17:47:17 --> Output Class Initialized
+INFO - 2017-01-30 17:47:17 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:17 --> Input Class Initialized
+INFO - 2017-01-30 17:47:17 --> Language Class Initialized
+INFO - 2017-01-30 17:47:17 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:17 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:17 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:17 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:17 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:17 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:17 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:17 --> Model Class Initialized
+INFO - 2017-01-30 17:47:17 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatu.php
+INFO - 2017-01-30 17:47:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:17 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:17 --> Total execution time: 0.0427
+ERROR - 2017-01-30 17:47:24 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:24 --> Config Class Initialized
+INFO - 2017-01-30 17:47:24 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:24 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:24 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:24 --> URI Class Initialized
+INFO - 2017-01-30 17:47:24 --> Router Class Initialized
+INFO - 2017-01-30 17:47:24 --> Output Class Initialized
+INFO - 2017-01-30 17:47:24 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:24 --> Input Class Initialized
+INFO - 2017-01-30 17:47:24 --> Language Class Initialized
+INFO - 2017-01-30 17:47:24 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:24 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:24 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:24 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:24 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:24 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:24 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:24 --> Model Class Initialized
+INFO - 2017-01-30 17:47:24 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:24 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:47:24 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:24 --> Config Class Initialized
+INFO - 2017-01-30 17:47:24 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:24 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:24 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:24 --> URI Class Initialized
+INFO - 2017-01-30 17:47:24 --> Router Class Initialized
+INFO - 2017-01-30 17:47:24 --> Output Class Initialized
+INFO - 2017-01-30 17:47:24 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:24 --> Input Class Initialized
+INFO - 2017-01-30 17:47:24 --> Language Class Initialized
+INFO - 2017-01-30 17:47:24 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:24 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:24 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:24 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:24 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:24 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:24 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:24 --> Model Class Initialized
+INFO - 2017-01-30 17:47:24 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:24 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:24 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:47:24 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:24 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:24 --> Total execution time: 0.0263
+ERROR - 2017-01-30 17:47:26 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:26 --> Config Class Initialized
+INFO - 2017-01-30 17:47:26 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:26 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:26 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:26 --> URI Class Initialized
+INFO - 2017-01-30 17:47:26 --> Router Class Initialized
+INFO - 2017-01-30 17:47:26 --> Output Class Initialized
+INFO - 2017-01-30 17:47:26 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:26 --> Input Class Initialized
+INFO - 2017-01-30 17:47:26 --> Language Class Initialized
+INFO - 2017-01-30 17:47:26 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:26 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:26 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:26 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:26 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:26 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:26 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:26 --> Model Class Initialized
+INFO - 2017-01-30 17:47:26 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:26 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:26 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatu.php
+INFO - 2017-01-30 17:47:26 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:26 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:26 --> Total execution time: 0.0306
+ERROR - 2017-01-30 17:47:30 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:30 --> Config Class Initialized
+INFO - 2017-01-30 17:47:30 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:30 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:30 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:30 --> URI Class Initialized
+INFO - 2017-01-30 17:47:30 --> Router Class Initialized
+INFO - 2017-01-30 17:47:30 --> Output Class Initialized
+INFO - 2017-01-30 17:47:30 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:30 --> Input Class Initialized
+INFO - 2017-01-30 17:47:30 --> Language Class Initialized
+INFO - 2017-01-30 17:47:30 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:30 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:30 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:30 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:30 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:30 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:30 --> Model Class Initialized
+INFO - 2017-01-30 17:47:30 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:30 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:47:30 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:30 --> Config Class Initialized
+INFO - 2017-01-30 17:47:30 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:30 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:30 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:30 --> URI Class Initialized
+INFO - 2017-01-30 17:47:30 --> Router Class Initialized
+INFO - 2017-01-30 17:47:30 --> Output Class Initialized
+INFO - 2017-01-30 17:47:30 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:30 --> Input Class Initialized
+INFO - 2017-01-30 17:47:30 --> Language Class Initialized
+INFO - 2017-01-30 17:47:30 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:30 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:30 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:30 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:30 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:30 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:30 --> Model Class Initialized
+INFO - 2017-01-30 17:47:30 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:47:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:30 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:30 --> Total execution time: 0.0278
+ERROR - 2017-01-30 17:47:31 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:47:31 --> Config Class Initialized
+INFO - 2017-01-30 17:47:31 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:47:31 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:47:31 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:47:31 --> URI Class Initialized
+INFO - 2017-01-30 17:47:31 --> Router Class Initialized
+INFO - 2017-01-30 17:47:31 --> Output Class Initialized
+INFO - 2017-01-30 17:47:31 --> Security Class Initialized
+DEBUG - 2017-01-30 17:47:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:47:31 --> Input Class Initialized
+INFO - 2017-01-30 17:47:31 --> Language Class Initialized
+INFO - 2017-01-30 17:47:31 --> Loader Class Initialized
+INFO - 2017-01-30 17:47:31 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:47:31 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:47:31 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:47:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:47:31 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:47:31 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:47:31 --> Controller Class Initialized
+INFO - 2017-01-30 17:47:31 --> Model Class Initialized
+INFO - 2017-01-30 17:47:31 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:47:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:47:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatu.php
+INFO - 2017-01-30 17:47:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:47:31 --> Final output sent to browser
+DEBUG - 2017-01-30 17:47:31 --> Total execution time: 0.0292
+ERROR - 2017-01-30 17:48:08 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:08 --> Config Class Initialized
+INFO - 2017-01-30 17:48:08 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:08 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:08 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:08 --> URI Class Initialized
+INFO - 2017-01-30 17:48:08 --> Router Class Initialized
+INFO - 2017-01-30 17:48:08 --> Output Class Initialized
+INFO - 2017-01-30 17:48:08 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:08 --> Input Class Initialized
+INFO - 2017-01-30 17:48:08 --> Language Class Initialized
+INFO - 2017-01-30 17:48:08 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:08 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:08 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:08 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:08 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:08 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:08 --> Model Class Initialized
+INFO - 2017-01-30 17:48:08 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:48:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:08 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:08 --> Total execution time: 0.0249
+ERROR - 2017-01-30 17:48:14 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:14 --> Config Class Initialized
+INFO - 2017-01-30 17:48:14 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:14 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:14 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:14 --> URI Class Initialized
+INFO - 2017-01-30 17:48:14 --> Router Class Initialized
+INFO - 2017-01-30 17:48:14 --> Output Class Initialized
+INFO - 2017-01-30 17:48:14 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:14 --> Input Class Initialized
+INFO - 2017-01-30 17:48:14 --> Language Class Initialized
+INFO - 2017-01-30 17:48:14 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:14 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:14 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:14 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:14 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:14 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:14 --> Model Class Initialized
+INFO - 2017-01-30 17:48:14 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatu.php
+INFO - 2017-01-30 17:48:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:14 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:14 --> Total execution time: 0.0276
+ERROR - 2017-01-30 17:48:19 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:19 --> Config Class Initialized
+INFO - 2017-01-30 17:48:19 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:19 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:19 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:19 --> URI Class Initialized
+INFO - 2017-01-30 17:48:19 --> Router Class Initialized
+INFO - 2017-01-30 17:48:19 --> Output Class Initialized
+INFO - 2017-01-30 17:48:19 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:19 --> Input Class Initialized
+INFO - 2017-01-30 17:48:19 --> Language Class Initialized
+INFO - 2017-01-30 17:48:19 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:19 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:19 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:19 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:19 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:19 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:19 --> Model Class Initialized
+INFO - 2017-01-30 17:48:19 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:19 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:48:19 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:19 --> Config Class Initialized
+INFO - 2017-01-30 17:48:19 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:19 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:19 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:19 --> URI Class Initialized
+INFO - 2017-01-30 17:48:19 --> Router Class Initialized
+INFO - 2017-01-30 17:48:19 --> Output Class Initialized
+INFO - 2017-01-30 17:48:19 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:19 --> Input Class Initialized
+INFO - 2017-01-30 17:48:19 --> Language Class Initialized
+INFO - 2017-01-30 17:48:19 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:19 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:19 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:19 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:19 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:19 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:19 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:19 --> Model Class Initialized
+INFO - 2017-01-30 17:48:19 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:19 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:19 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:48:19 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:19 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:19 --> Total execution time: 0.0298
+ERROR - 2017-01-30 17:48:21 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:21 --> Config Class Initialized
+INFO - 2017-01-30 17:48:21 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:21 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:21 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:21 --> URI Class Initialized
+INFO - 2017-01-30 17:48:21 --> Router Class Initialized
+INFO - 2017-01-30 17:48:21 --> Output Class Initialized
+INFO - 2017-01-30 17:48:21 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:21 --> Input Class Initialized
+INFO - 2017-01-30 17:48:21 --> Language Class Initialized
+INFO - 2017-01-30 17:48:21 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:21 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:21 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:21 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:21 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:21 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:21 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:21 --> Model Class Initialized
+INFO - 2017-01-30 17:48:21 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatu.php
+INFO - 2017-01-30 17:48:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:21 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:21 --> Total execution time: 0.0296
+ERROR - 2017-01-30 17:48:34 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:34 --> Config Class Initialized
+INFO - 2017-01-30 17:48:34 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:34 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:34 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:34 --> URI Class Initialized
+INFO - 2017-01-30 17:48:34 --> Router Class Initialized
+INFO - 2017-01-30 17:48:34 --> Output Class Initialized
+INFO - 2017-01-30 17:48:34 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:34 --> Input Class Initialized
+INFO - 2017-01-30 17:48:34 --> Language Class Initialized
+INFO - 2017-01-30 17:48:34 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:34 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:34 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:34 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:34 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:34 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:34 --> Model Class Initialized
+INFO - 2017-01-30 17:48:34 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:34 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:48:34 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:34 --> Config Class Initialized
+INFO - 2017-01-30 17:48:34 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:34 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:34 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:34 --> URI Class Initialized
+INFO - 2017-01-30 17:48:34 --> Router Class Initialized
+INFO - 2017-01-30 17:48:34 --> Output Class Initialized
+INFO - 2017-01-30 17:48:34 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:34 --> Input Class Initialized
+INFO - 2017-01-30 17:48:34 --> Language Class Initialized
+INFO - 2017-01-30 17:48:34 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:34 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:34 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:34 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:34 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:34 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:34 --> Model Class Initialized
+INFO - 2017-01-30 17:48:34 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:48:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:34 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:34 --> Total execution time: 0.0289
+ERROR - 2017-01-30 17:48:37 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:37 --> Config Class Initialized
+INFO - 2017-01-30 17:48:37 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:37 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:37 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:37 --> URI Class Initialized
+INFO - 2017-01-30 17:48:37 --> Router Class Initialized
+INFO - 2017-01-30 17:48:37 --> Output Class Initialized
+INFO - 2017-01-30 17:48:37 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:37 --> Input Class Initialized
+INFO - 2017-01-30 17:48:37 --> Language Class Initialized
+INFO - 2017-01-30 17:48:37 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:37 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:37 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:37 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:37 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:37 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:37 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:37 --> Model Class Initialized
+INFO - 2017-01-30 17:48:37 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:48:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:37 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:37 --> Total execution time: 0.0299
+ERROR - 2017-01-30 17:48:40 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:40 --> Config Class Initialized
+INFO - 2017-01-30 17:48:40 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:40 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:40 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:40 --> URI Class Initialized
+INFO - 2017-01-30 17:48:40 --> Router Class Initialized
+INFO - 2017-01-30 17:48:40 --> Output Class Initialized
+INFO - 2017-01-30 17:48:40 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:40 --> Input Class Initialized
+INFO - 2017-01-30 17:48:40 --> Language Class Initialized
+INFO - 2017-01-30 17:48:40 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:40 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:40 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:40 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:40 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:40 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:40 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:40 --> Model Class Initialized
+INFO - 2017-01-30 17:48:40 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:40 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:40 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:48:40 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:40 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:40 --> Total execution time: 0.1001
+ERROR - 2017-01-30 17:48:42 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:42 --> Config Class Initialized
+INFO - 2017-01-30 17:48:42 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:42 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:42 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:42 --> URI Class Initialized
+INFO - 2017-01-30 17:48:42 --> Router Class Initialized
+INFO - 2017-01-30 17:48:42 --> Output Class Initialized
+INFO - 2017-01-30 17:48:42 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:42 --> Input Class Initialized
+INFO - 2017-01-30 17:48:42 --> Language Class Initialized
+ERROR - 2017-01-30 17:48:42 --> 404 Page Not Found: admin/Proyectos/actuales
+ERROR - 2017-01-30 17:48:44 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:44 --> Config Class Initialized
+INFO - 2017-01-30 17:48:44 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:44 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:44 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:44 --> URI Class Initialized
+INFO - 2017-01-30 17:48:44 --> Router Class Initialized
+INFO - 2017-01-30 17:48:44 --> Output Class Initialized
+INFO - 2017-01-30 17:48:44 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:44 --> Input Class Initialized
+INFO - 2017-01-30 17:48:44 --> Language Class Initialized
+INFO - 2017-01-30 17:48:44 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:44 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:44 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:44 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:44 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:44 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:44 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:44 --> Model Class Initialized
+INFO - 2017-01-30 17:48:44 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:48:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:44 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:44 --> Total execution time: 0.0256
+ERROR - 2017-01-30 17:48:45 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:48:45 --> Config Class Initialized
+INFO - 2017-01-30 17:48:45 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:48:45 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:48:45 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:48:45 --> URI Class Initialized
+INFO - 2017-01-30 17:48:45 --> Router Class Initialized
+INFO - 2017-01-30 17:48:45 --> Output Class Initialized
+INFO - 2017-01-30 17:48:45 --> Security Class Initialized
+DEBUG - 2017-01-30 17:48:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:48:45 --> Input Class Initialized
+INFO - 2017-01-30 17:48:45 --> Language Class Initialized
+INFO - 2017-01-30 17:48:45 --> Loader Class Initialized
+INFO - 2017-01-30 17:48:45 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:48:45 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:48:45 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:48:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:48:45 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:48:45 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:48:45 --> Controller Class Initialized
+INFO - 2017-01-30 17:48:45 --> Model Class Initialized
+INFO - 2017-01-30 17:48:45 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:48:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:48:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/principal.php
+INFO - 2017-01-30 17:48:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:48:45 --> Final output sent to browser
+DEBUG - 2017-01-30 17:48:45 --> Total execution time: 0.0811
+ERROR - 2017-01-30 17:49:39 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:49:39 --> Config Class Initialized
+INFO - 2017-01-30 17:49:39 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:49:39 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:49:39 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:49:39 --> URI Class Initialized
+INFO - 2017-01-30 17:49:39 --> Router Class Initialized
+INFO - 2017-01-30 17:49:39 --> Output Class Initialized
+INFO - 2017-01-30 17:49:39 --> Security Class Initialized
+DEBUG - 2017-01-30 17:49:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:49:39 --> Input Class Initialized
+INFO - 2017-01-30 17:49:39 --> Language Class Initialized
+INFO - 2017-01-30 17:49:39 --> Loader Class Initialized
+INFO - 2017-01-30 17:49:39 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:49:39 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:49:39 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:49:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:49:39 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:49:39 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:49:39 --> Controller Class Initialized
+INFO - 2017-01-30 17:49:39 --> Model Class Initialized
+INFO - 2017-01-30 17:49:39 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:49:39 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:49:39 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:49:39 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:49:39 --> Final output sent to browser
+DEBUG - 2017-01-30 17:49:39 --> Total execution time: 0.0317
+ERROR - 2017-01-30 17:49:41 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:49:41 --> Config Class Initialized
+INFO - 2017-01-30 17:49:41 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:49:41 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:49:41 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:49:41 --> URI Class Initialized
+INFO - 2017-01-30 17:49:41 --> Router Class Initialized
+INFO - 2017-01-30 17:49:41 --> Output Class Initialized
+INFO - 2017-01-30 17:49:41 --> Security Class Initialized
+DEBUG - 2017-01-30 17:49:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:49:41 --> Input Class Initialized
+INFO - 2017-01-30 17:49:41 --> Language Class Initialized
+INFO - 2017-01-30 17:49:41 --> Loader Class Initialized
+INFO - 2017-01-30 17:49:41 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:49:41 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:49:41 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:49:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:49:41 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:49:41 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:49:41 --> Controller Class Initialized
+INFO - 2017-01-30 17:49:41 --> Model Class Initialized
+INFO - 2017-01-30 17:49:41 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:49:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:49:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_estatus.php
+INFO - 2017-01-30 17:49:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:49:41 --> Final output sent to browser
+DEBUG - 2017-01-30 17:49:41 --> Total execution time: 0.1303
+ERROR - 2017-01-30 17:50:09 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:50:09 --> Config Class Initialized
+INFO - 2017-01-30 17:50:09 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:50:09 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:50:09 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:50:09 --> URI Class Initialized
+INFO - 2017-01-30 17:50:09 --> Router Class Initialized
+INFO - 2017-01-30 17:50:09 --> Output Class Initialized
+INFO - 2017-01-30 17:50:09 --> Security Class Initialized
+DEBUG - 2017-01-30 17:50:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:50:09 --> Input Class Initialized
+INFO - 2017-01-30 17:50:09 --> Language Class Initialized
+INFO - 2017-01-30 17:50:09 --> Loader Class Initialized
+INFO - 2017-01-30 17:50:09 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:50:09 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:50:09 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:50:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:50:09 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:50:09 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:50:09 --> Controller Class Initialized
+INFO - 2017-01-30 17:50:10 --> Model Class Initialized
+INFO - 2017-01-30 17:50:10 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:50:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:50:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/principal.php
+INFO - 2017-01-30 17:50:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:50:10 --> Final output sent to browser
+DEBUG - 2017-01-30 17:50:10 --> Total execution time: 0.4268
+ERROR - 2017-01-30 17:51:49 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:51:49 --> Config Class Initialized
+INFO - 2017-01-30 17:51:49 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:51:49 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:51:49 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:51:49 --> URI Class Initialized
+INFO - 2017-01-30 17:51:49 --> Router Class Initialized
+INFO - 2017-01-30 17:51:49 --> Output Class Initialized
+INFO - 2017-01-30 17:51:49 --> Security Class Initialized
+DEBUG - 2017-01-30 17:51:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:51:49 --> Input Class Initialized
+INFO - 2017-01-30 17:51:49 --> Language Class Initialized
+INFO - 2017-01-30 17:51:49 --> Loader Class Initialized
+INFO - 2017-01-30 17:51:49 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:51:49 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:51:49 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:51:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:51:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:51:49 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:51:49 --> Controller Class Initialized
+INFO - 2017-01-30 17:51:49 --> Model Class Initialized
+INFO - 2017-01-30 17:51:49 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:51:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:51:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/principal.php
+INFO - 2017-01-30 17:51:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:51:49 --> Final output sent to browser
+DEBUG - 2017-01-30 17:51:49 --> Total execution time: 0.2490
+ERROR - 2017-01-30 17:53:43 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:53:43 --> Config Class Initialized
+INFO - 2017-01-30 17:53:43 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:53:43 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:53:43 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:53:43 --> URI Class Initialized
+INFO - 2017-01-30 17:53:43 --> Router Class Initialized
+INFO - 2017-01-30 17:53:43 --> Output Class Initialized
+INFO - 2017-01-30 17:53:43 --> Security Class Initialized
+DEBUG - 2017-01-30 17:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:53:43 --> Input Class Initialized
+INFO - 2017-01-30 17:53:43 --> Language Class Initialized
+INFO - 2017-01-30 17:53:43 --> Loader Class Initialized
+INFO - 2017-01-30 17:53:43 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:53:43 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:53:43 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:53:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:53:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:53:43 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:53:43 --> Controller Class Initialized
+INFO - 2017-01-30 17:53:43 --> Model Class Initialized
+INFO - 2017-01-30 17:53:43 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:53:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:53:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/principal.php
+INFO - 2017-01-30 17:53:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:53:43 --> Final output sent to browser
+DEBUG - 2017-01-30 17:53:43 --> Total execution time: 0.2491
+ERROR - 2017-01-30 17:54:54 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:54:54 --> Config Class Initialized
+INFO - 2017-01-30 17:54:54 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:54:54 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:54:54 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:54:54 --> URI Class Initialized
+INFO - 2017-01-30 17:54:54 --> Router Class Initialized
+INFO - 2017-01-30 17:54:54 --> Output Class Initialized
+INFO - 2017-01-30 17:54:54 --> Security Class Initialized
+DEBUG - 2017-01-30 17:54:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:54:54 --> Input Class Initialized
+INFO - 2017-01-30 17:54:54 --> Language Class Initialized
+INFO - 2017-01-30 17:54:54 --> Loader Class Initialized
+INFO - 2017-01-30 17:54:54 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:54:54 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:54:54 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:54:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:54:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:54:54 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:54:54 --> Controller Class Initialized
+INFO - 2017-01-30 17:54:54 --> Model Class Initialized
+INFO - 2017-01-30 17:54:54 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:54:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/head.php
+INFO - 2017-01-30 17:54:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/autenticacion.php
+INFO - 2017-01-30 17:54:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/footer.php
+INFO - 2017-01-30 17:54:54 --> Final output sent to browser
+DEBUG - 2017-01-30 17:54:54 --> Total execution time: 0.3279
+ERROR - 2017-01-30 17:54:56 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:54:56 --> Config Class Initialized
+INFO - 2017-01-30 17:54:56 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:54:56 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:54:56 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:54:56 --> URI Class Initialized
+INFO - 2017-01-30 17:54:56 --> Router Class Initialized
+INFO - 2017-01-30 17:54:56 --> Output Class Initialized
+INFO - 2017-01-30 17:54:56 --> Security Class Initialized
+DEBUG - 2017-01-30 17:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:54:56 --> Input Class Initialized
+INFO - 2017-01-30 17:54:56 --> Language Class Initialized
+INFO - 2017-01-30 17:54:56 --> Loader Class Initialized
+INFO - 2017-01-30 17:54:56 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:54:56 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:54:56 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:54:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:54:56 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:54:56 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:54:56 --> Controller Class Initialized
+INFO - 2017-01-30 17:54:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/head.php
+INFO - 2017-01-30 17:54:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/sing_up.php
+INFO - 2017-01-30 17:54:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/footer.php
+INFO - 2017-01-30 17:54:56 --> Final output sent to browser
+DEBUG - 2017-01-30 17:54:56 --> Total execution time: 0.0717
+ERROR - 2017-01-30 17:56:08 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:08 --> Config Class Initialized
+INFO - 2017-01-30 17:56:08 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:08 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:08 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:08 --> URI Class Initialized
+INFO - 2017-01-30 17:56:08 --> Router Class Initialized
+INFO - 2017-01-30 17:56:08 --> Output Class Initialized
+INFO - 2017-01-30 17:56:08 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:08 --> Input Class Initialized
+INFO - 2017-01-30 17:56:08 --> Language Class Initialized
+INFO - 2017-01-30 17:56:08 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:08 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:08 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:08 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:08 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:08 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:08 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:08 --> Model Class Initialized
+INFO - 2017-01-30 17:56:08 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:08 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 2017-01-30 17:56:10 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:10 --> Config Class Initialized
+INFO - 2017-01-30 17:56:10 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:10 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:10 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:10 --> URI Class Initialized
+INFO - 2017-01-30 17:56:10 --> Router Class Initialized
+INFO - 2017-01-30 17:56:10 --> Output Class Initialized
+INFO - 2017-01-30 17:56:10 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:10 --> Input Class Initialized
+INFO - 2017-01-30 17:56:10 --> Language Class Initialized
+INFO - 2017-01-30 17:56:10 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:10 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:10 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:10 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:10 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:10 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:10 --> Model Class Initialized
+INFO - 2017-01-30 17:56:10 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:56:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/principal.php
+INFO - 2017-01-30 17:56:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:10 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:10 --> Total execution time: 0.1234
+ERROR - 2017-01-30 17:56:48 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:48 --> Config Class Initialized
+INFO - 2017-01-30 17:56:48 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:48 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:48 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:48 --> URI Class Initialized
+INFO - 2017-01-30 17:56:48 --> Router Class Initialized
+INFO - 2017-01-30 17:56:48 --> Output Class Initialized
+INFO - 2017-01-30 17:56:48 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:48 --> Input Class Initialized
+INFO - 2017-01-30 17:56:48 --> Language Class Initialized
+INFO - 2017-01-30 17:56:49 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:49 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:49 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:49 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:49 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:49 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:49 --> Model Class Initialized
+INFO - 2017-01-30 17:56:49 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:56:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definiciones.php
+INFO - 2017-01-30 17:56:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:49 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:49 --> Total execution time: 0.0987
+ERROR - 2017-01-30 17:56:52 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:52 --> Config Class Initialized
+INFO - 2017-01-30 17:56:52 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:52 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:52 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:52 --> URI Class Initialized
+INFO - 2017-01-30 17:56:52 --> Router Class Initialized
+INFO - 2017-01-30 17:56:52 --> Output Class Initialized
+INFO - 2017-01-30 17:56:52 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:52 --> Input Class Initialized
+INFO - 2017-01-30 17:56:52 --> Language Class Initialized
+INFO - 2017-01-30 17:56:52 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:52 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:52 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:52 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:52 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:52 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:52 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:52 --> Model Class Initialized
+INFO - 2017-01-30 17:56:52 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:56:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definicione.php
+INFO - 2017-01-30 17:56:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:52 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:52 --> Total execution time: 0.0271
+ERROR - 2017-01-30 17:56:55 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:55 --> Config Class Initialized
+INFO - 2017-01-30 17:56:55 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:55 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:55 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:55 --> URI Class Initialized
+INFO - 2017-01-30 17:56:55 --> Router Class Initialized
+INFO - 2017-01-30 17:56:55 --> Output Class Initialized
+INFO - 2017-01-30 17:56:55 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:55 --> Input Class Initialized
+INFO - 2017-01-30 17:56:55 --> Language Class Initialized
+INFO - 2017-01-30 17:56:55 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:55 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:55 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:55 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:55 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:55 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:55 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:55 --> Model Class Initialized
+INFO - 2017-01-30 17:56:55 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:56:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_definiciones.php
+INFO - 2017-01-30 17:56:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:55 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:55 --> Total execution time: 0.0245
+ERROR - 2017-01-30 17:56:58 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:58 --> Config Class Initialized
+INFO - 2017-01-30 17:56:58 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:58 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:58 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:58 --> URI Class Initialized
+INFO - 2017-01-30 17:56:58 --> Router Class Initialized
+INFO - 2017-01-30 17:56:58 --> Output Class Initialized
+INFO - 2017-01-30 17:56:58 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:58 --> Input Class Initialized
+INFO - 2017-01-30 17:56:58 --> Language Class Initialized
+INFO - 2017-01-30 17:56:58 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:58 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:58 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:58 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:58 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:58 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:58 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:58 --> Model Class Initialized
+INFO - 2017-01-30 17:56:58 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+INFO - 2017-01-30 17:56:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_aperturas.php
+INFO - 2017-01-30 17:56:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:58 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:58 --> Total execution time: 0.0819
+ERROR - 2017-01-30 17:56:59 --> $config['composer_autoload'] is set to TRUE but /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/vendor/autoload.php was not found.
+INFO - 2017-01-30 17:56:59 --> Config Class Initialized
+INFO - 2017-01-30 17:56:59 --> Hooks Class Initialized
+DEBUG - 2017-01-30 17:56:59 --> UTF-8 Support Enabled
+INFO - 2017-01-30 17:56:59 --> Utf8 Class Initialized
+INFO - 2017-01-30 17:56:59 --> URI Class Initialized
+INFO - 2017-01-30 17:56:59 --> Router Class Initialized
+INFO - 2017-01-30 17:56:59 --> Output Class Initialized
+INFO - 2017-01-30 17:56:59 --> Security Class Initialized
+DEBUG - 2017-01-30 17:56:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-30 17:56:59 --> Input Class Initialized
+INFO - 2017-01-30 17:56:59 --> Language Class Initialized
+INFO - 2017-01-30 17:56:59 --> Loader Class Initialized
+INFO - 2017-01-30 17:56:59 --> Helper loaded: url_helper
+INFO - 2017-01-30 17:56:59 --> Helper loaded: form_helper
+INFO - 2017-01-30 17:56:59 --> Helper loaded: security_helper
+DEBUG - 2017-01-30 17:56:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-01-30 17:56:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-30 17:56:59 --> Form Validation Class Initialized
+INFO - 2017-01-30 17:56:59 --> Controller Class Initialized
+INFO - 2017-01-30 17:56:59 --> Model Class Initialized
+INFO - 2017-01-30 17:56:59 --> Database Driver Class Initialized
+INFO - 2017-01-30 17:56:59 --> Model Class Initialized
+INFO - 2017-01-30 17:56:59 --> Model Class Initialized
+INFO - 2017-01-30 17:56:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/head.php
+ERROR - 2017-01-30 17:56:59 --> Severity: Notice --> Use of undefined constant proyectos_estatus_id - assumed 'proyectos_estatus_id' /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php 61
+ERROR - 2017-01-30 17:56:59 --> Severity: Notice --> Use of undefined constant proyectos_estatus_id - assumed 'proyectos_estatus_id' /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php 61
+ERROR - 2017-01-30 17:56:59 --> Severity: Notice --> Use of undefined constant proyectos_estatus_id - assumed 'proyectos_estatus_id' /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php 61
+ERROR - 2017-01-30 17:56:59 --> Severity: Notice --> Use of undefined constant proyectos_estatus_id - assumed 'proyectos_estatus_id' /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php 61
+ERROR - 2017-01-30 17:56:59 --> Severity: Notice --> Use of undefined constant proyectos_definiciones_id - assumed 'proyectos_definiciones_id' /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php 79
+INFO - 2017-01-30 17:56:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/proyectos_apertura.php
+INFO - 2017-01-30 17:56:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/cpanel/application/views/admin/plantilla/footer.php
+INFO - 2017-01-30 17:56:59 --> Final output sent to browser
+DEBUG - 2017-01-30 17:56:59 --> Total execution time: 0.0555

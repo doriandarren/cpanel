@@ -32,19 +32,17 @@
                         ?>
                         <tr>
                             <td><?= $i ?></td>
-                            <td><?= $row->id ?></td>
                             <td><?= $row->descripcion ?></td>
                             <td><?= $row->fecha_inicio ?></td>
                             <td><?= $row->fecha_fin ?></td>
                             <td><?= $row->inversion ?></td>
                             <td><?= $row->gastos ?></td>
-                            <td><?= $row->proyectos_estatus_id ?></td>
-                            <td><?= $row->proyectos_definiciones_id ?></td>
+                            <td><?= $row->des_estatus ?></td>
+                            <td><?= $row->des_proyecto ?></td>
                             <td>
                                 <a href="<?= site_url('admin/proyectos_aperturas/nueva') . '/' . $row->id ?>" class="btn btn-info">Editar</a>
                                 <a href="<?= site_url('admin/proyectos_aperturas/eliminar') . '/' . $row->id ?>" class="btn btn-danger" title="Eliminar" onclick="return confirm('Eliminar este Registro?')">Eliminar</a>
                             </td>
-
                         </tr>                      
                         <?php
                         $i++;

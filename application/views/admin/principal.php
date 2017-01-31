@@ -2,7 +2,7 @@
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">
-            Administrador <small>Estadistica</small>
+            Administrador klarenz!<small>Estadistica</small>
         </h1>
         <ol class="breadcrumb">
             <li class="active">
@@ -24,6 +24,14 @@
 <!-- /.row -->
 
 <div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">
+            Proyectos <small>Estadistica</small>
+        </h1>
+    </div>
+</div>
+
+<div class="row">
     <div class="col-lg-3 col-md-6">
         <div class="panel panel-primary">
             <div class="panel-heading">
@@ -33,13 +41,13 @@
                     </div>
                     <div class="col-xs-9 text-right">
                         <div class="huge">26</div>
-                        <div>New Comments!</div>
+                        <div>APERTURADOS</div>
                     </div>
                 </div>
             </div>
             <a href="#">
                 <div class="panel-footer">
-                    <span class="pull-left">View Details</span>
+                    <span class="pull-left">Detalles</span>
                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
                     <div class="clearfix"></div>
                 </div>
@@ -55,13 +63,13 @@
                     </div>
                     <div class="col-xs-9 text-right">
                         <div class="huge">12</div>
-                        <div>New Tasks!</div>
+                        <div>EN PROCESO</div>
                     </div>
                 </div>
             </div>
             <a href="#">
                 <div class="panel-footer">
-                    <span class="pull-left">View Details</span>
+                    <span class="pull-left">Detalles</span>
                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
                     <div class="clearfix"></div>
                 </div>
@@ -77,13 +85,13 @@
                     </div>
                     <div class="col-xs-9 text-right">
                         <div class="huge">124</div>
-                        <div>New Orders!</div>
+                        <div>CANCELADO</div>
                     </div>
                 </div>
             </div>
             <a href="#">
                 <div class="panel-footer">
-                    <span class="pull-left">View Details</span>
+                    <span class="pull-left">Detalles</span>
                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
                     <div class="clearfix"></div>
                 </div>
@@ -99,13 +107,13 @@
                     </div>
                     <div class="col-xs-9 text-right">
                         <div class="huge">13</div>
-                        <div>Support Tickets!</div>
+                        <div>CULMINADO</div>
                     </div>
                 </div>
             </div>
             <a href="#">
                 <div class="panel-footer">
-                    <span class="pull-left">View Details</span>
+                    <span class="pull-left">Detalles</span>
                     <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
                     <div class="clearfix"></div>
                 </div>
@@ -266,13 +274,3 @@
 </div>
 <!-- /.row -->
 
-<div class="row">  
-    <div class="col-lg-12">
-        <h1>TU AMIGO EN LA WEB</h1>
-        <?php
-        echo "dfmjfjfjf";
-        echo 'Id: ' . $this->session->userdata('id');
-        echo 'Acronimo/Usuario: ' . $this->session->userdata('usuario');
-        ?>
-    </div> 
-</div> 

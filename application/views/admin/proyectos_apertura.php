@@ -58,7 +58,7 @@
                         <?php
                         echo "<option value=''>Seleccione</option>";
                         foreach ($lista_proyectos_estatus as $rows) {
-                            if (proyectos_estatus_id == $rows->id) {
+                            if ($proyectos_estatus_id == $rows->id) {
                                 echo "<option value=" . $rows->id . " selected>" . $rows->descripcion . "</option>";
                             } else {
                                 echo "<option value=" . $rows->id . ">" . $rows->descripcion . "</option>";
@@ -76,7 +76,7 @@
                         <?php
                         echo "<option value=''>Seleccione</option>";
                         foreach ($lista_proyectos_definiciones as $rows) {
-                            if (proyectos_definiciones_id == $rows->id) {
+                            if ($proyectos_definiciones_id == $rows->id) {
                                 echo "<option value=" . $rows->id . " selected>" . $rows->nombre . "</option>";
                             } else {
                                 echo "<option value=" . $rows->id . ">" . $rows->nombre . "</option>";

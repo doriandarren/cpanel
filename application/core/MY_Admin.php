@@ -31,8 +31,8 @@ class MY_Admin extends CI_Controller {
         return $conEmail;
     }
     
-        
-    public function fecha_usuario($param) { 
+    //fecha formateada para la BD    
+    public function fecha_bd($param) { 
         if($param){
             $anio = substr($param, 0, 4);
             $mes = substr($param, 5, 2);
@@ -43,12 +43,13 @@ class MY_Admin extends CI_Controller {
         return false;
     }
     
-    public function fecha_bd($param) { 
+    //fecha formateada para el usuario
+    public function fecha_usuario($param) { 
         if($param){
-            $dia = substr($param, 0, 2);
-            $mes = substr($param, 3, 2);
-            $anio = substr($param, 6, 4);
-            return $anio."-".$mes."-".$dia;
+            $anio = substr($param, 0, 4);
+            $mes = substr($param, 5, 2);
+            $dia = substr($param, 8, 2);
+            return $dia."-".$mes."-".$anio;
         }
         return false;
     }

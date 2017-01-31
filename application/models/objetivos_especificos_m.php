@@ -8,8 +8,8 @@ private $descripcion;
 private $fecha_inicio;
 private $fecha_fin;
 private $porcentaje_avance;
-private $proyectos_id;
 private $proyectos_estatus_id;
+private $proyectos_definiciones_id;
 function __construct() {
             parent::__construct();      
             $this->load->database();
@@ -36,11 +36,11 @@ function get_fecha_fin(){
 function get_porcentaje_avance(){
                 return $this->porcentaje_avance;
             }
-function get_proyectos_id(){
-                return $this->proyectos_id;
-            }
 function get_proyectos_estatus_id(){
                 return $this->proyectos_estatus_id;
+            }
+function get_proyectos_definiciones_id(){
+                return $this->proyectos_definiciones_id;
             }
 /******************
         * FUNCIONES SETTER
@@ -53,8 +53,8 @@ $this->descripcion = $row->descripcion;
 $this->fecha_inicio = $row->fecha_inicio;
 $this->fecha_fin = $row->fecha_fin;
 $this->porcentaje_avance = $row->porcentaje_avance;
-$this->proyectos_id = $row->proyectos_id;
 $this->proyectos_estatus_id = $row->proyectos_estatus_id;
+$this->proyectos_definiciones_id = $row->proyectos_definiciones_id;
 
             }
         }
@@ -65,8 +65,8 @@ $this->descripcion = '';
 $this->fecha_inicio = '';
 $this->fecha_fin = '';
 $this->porcentaje_avance = '';
-$this->proyectos_id =0;
 $this->proyectos_estatus_id =0;
+$this->proyectos_definiciones_id =0;
 }
 function set_id($id){
                 $this->db->where('id',$id);
@@ -128,8 +128,8 @@ function set_porcentaje_avance($porcentaje_avance){
                     $this->set_variables_off();
                 }
             }
-function set_proyectos_id($proyectos_id){
-                $this->db->where('proyectos_id',$proyectos_id);
+function set_proyectos_estatus_id($proyectos_estatus_id){
+                $this->db->where('proyectos_estatus_id',$proyectos_estatus_id);
                 $this->db->select('*');
                 $query = $this->db->get($this->table_name);
                 if($query->result()){            
@@ -138,8 +138,8 @@ function set_proyectos_id($proyectos_id){
                     $this->set_variables_off();
                 }
             }
-function set_proyectos_estatus_id($proyectos_estatus_id){
-                $this->db->where('proyectos_estatus_id',$proyectos_estatus_id);
+function set_proyectos_definiciones_id($proyectos_definiciones_id){
+                $this->db->where('proyectos_definiciones_id',$proyectos_definiciones_id);
                 $this->db->select('*');
                 $query = $this->db->get($this->table_name);
                 if($query->result()){            

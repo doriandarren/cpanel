@@ -19,8 +19,27 @@ class proyectos_aperturas extends MY_Admin {
         $data['title_head'] = $this->title_head;
         $data['msj'] = $this->msj;
 
-        $datos['datos'] = $this->proyectos_aperturas_m->listar();
-
+        $datos = $this->proyectos_aperturas_m->listar();
+        
+        $this->load->model('proyectos_estatus_m');
+        $this->load->model('proyectos_definiciones_m');
+        
+        foreach ($datos as $i => $value) {    
+            
+            $fe = $value->fecha_inicio;
+            $value->fecha_inicio = $this->fecha_usuario($fe);
+            
+            $fef = $value->fecha_fin;
+            $value->fecha_fin = $this->fecha_usuario($fef);
+            
+            $this->proyectos_estatus_m->set_id($value->proyectos_estatus_id);
+            $datos[$i]->des_estatus = $this->proyectos_estatus_m->get_descripcion();
+            
+            $this->proyectos_definiciones_m->set_id($value->proyectos_definiciones_id);
+            $datos[$i]->des_proyecto = $this->proyectos_definiciones_m->get_nombre();            
+        }
+        
+        $datos['datos'] = $datos;
         //JS PUBLICOS
         $data['js'] = array('tablas/jquery.dataTables', 'tablas/dataTables.bootstrap', 'tablas/mi_tabla');
 
@@ -46,15 +65,17 @@ class proyectos_aperturas extends MY_Admin {
             //date("Y-m-d H:i:s");
             $datos['fecha_inicio'] = date("Y-m-d");
         }  else {
-            $datos['fecha_inicio'] = $this->fecha_usuario($fecha_ini);
+            $datos['fecha_inicio'] = $fecha_ini;
         } 
-        $fecha_fin = $this->proyectos_aperturas_m->get_fecha_fin();        
+        $fecha_fin = $this->proyectos_aperturas_m->get_fecha_fin();
         if($fecha_fin===''){
             //date("Y-m-d H:i:s");
             $datos['fecha_fin'] = date("Y-m-d");
         }  else {
-            $datos['fecha_fin'] = $this->fecha_usuario($fecha_fin);
-        }         
+            $datos['fecha_fin'] = $fecha_fin;
+        }    
+        
+        
         $datos['inversion'] = $this->proyectos_aperturas_m->get_inversion();
         $datos['gastos'] = $this->proyectos_aperturas_m->get_gastos();
         $datos['proyectos_estatus_id'] = $this->proyectos_aperturas_m->get_proyectos_estatus_id();
